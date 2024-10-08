@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to our website",
+  "menu": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "logout": "Logout"
+}
