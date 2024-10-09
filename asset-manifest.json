@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/upfirst-ai/static/css/main.00c85950.css",
-    "main.js": "/upfirst-ai/static/js/main.9aa46114.js",
+    "main.js": "/upfirst-ai/static/js/main.42492c63.js",
     "static/js/453.ed3810f9.chunk.js": "/upfirst-ai/static/js/453.ed3810f9.chunk.js",
     "static/media/bg.jpg": "/upfirst-ai/static/media/bg.50ee1d33b608704b4d86.jpg",
     "index.html": "/upfirst-ai/index.html",
     "main.00c85950.css.map": "/upfirst-ai/static/css/main.00c85950.css.map",
-    "main.9aa46114.js.map": "/upfirst-ai/static/js/main.9aa46114.js.map",
+    "main.42492c63.js.map": "/upfirst-ai/static/js/main.42492c63.js.map",
     "453.ed3810f9.chunk.js.map": "/upfirst-ai/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00c85950.css",
-    "static/js/main.9aa46114.js"
+    "static/js/main.42492c63.js"
   ]
 }
