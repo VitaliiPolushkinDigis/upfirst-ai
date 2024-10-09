@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import { menuItems } from "../../constants/labels";
+import { menuItems } from "../../utils/constants/labels";
 import { NavLink } from "react-router-dom";
 
 export const Navigation = () => {

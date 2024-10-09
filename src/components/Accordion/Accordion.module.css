@@ -1,0 +1,33 @@
+.shadow {
+  box-shadow: 0 6px 8px -1px hsla(217, 91%, 60%, 0.582),
+    0 2px 4px -2px rgb(159 0 255);
+}
+
+.post {
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.post.fade-out {
+  opacity: 0;
+  transform: scale(0.8);
+}
+
+.button {
+  display: block;
+  font-weight: 600;
+  border-width: 1px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  transition-duration: 200ms;
+  border-radius: 0.25rem;
+  width: -webkit-fill-available;
+}
+
+.truncate-text {
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

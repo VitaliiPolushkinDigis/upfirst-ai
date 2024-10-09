@@ -7,7 +7,10 @@ export const Menu = () => {
     console.log("Logging out...");
   };
   return (
-    <aside className="h-lvh w-96 bg-gray-50 flex flex-col justify-between py-4 px-12">
+    <aside
+      className="h-lvh w-96 flex flex-col justify-between py-4 px-12 cursor-pointer border-slate-300 border-r shadow-lg"
+      style={{ background: "#f1f5f9cc" }}
+    >
       <img
         // didn't find svg logo so use plain png
         src="/logo.png"
@@ -16,7 +19,7 @@ export const Menu = () => {
       />
       <Navigation />
       <button
-        className="bg-slate-200 rounded-lg font-semibold flex items-center p-2"
+        className="rounded-lg font-semibold flex items-center p-2"
         onClick={handleLogout}
       >
         <span className="material-icons mr-4">logout</span>

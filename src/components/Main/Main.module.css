@@ -1,0 +1,17 @@
+.contentWrapper {
+  min-height: calc(100vh - 104px);
+  max-height: calc(100vh - 104px);
+}
+
+.pageBg {
+  background-image: url("../../../public/bg.jpg");
+  background-size: cover; /* Cover the entire block */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  height: 100vh; /* Set a height for the block */
+  overflow: hidden;
+}
+
+.calcWidth {
+  width: calc(100vw - 376px);
+}
