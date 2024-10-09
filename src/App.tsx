@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="flex overflow-hidden">
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/upfirst-ai" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
