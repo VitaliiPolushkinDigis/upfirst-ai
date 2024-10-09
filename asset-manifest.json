@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac938d78.css",
-    "main.js": "/static/js/main.5f39bdac.js",
-    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
-    "static/media/bg.jpg": "/static/media/bg.50ee1d33b608704b4d86.jpg",
-    "index.html": "/index.html",
-    "main.ac938d78.css.map": "/static/css/main.ac938d78.css.map",
-    "main.5f39bdac.js.map": "/static/js/main.5f39bdac.js.map",
-    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/upfirst-ai/static/css/main.00c85950.css",
+    "main.js": "/upfirst-ai/static/js/main.9aa46114.js",
+    "static/js/453.ed3810f9.chunk.js": "/upfirst-ai/static/js/453.ed3810f9.chunk.js",
+    "static/media/bg.jpg": "/upfirst-ai/static/media/bg.50ee1d33b608704b4d86.jpg",
+    "index.html": "/upfirst-ai/index.html",
+    "main.00c85950.css.map": "/upfirst-ai/static/css/main.00c85950.css.map",
+    "main.9aa46114.js.map": "/upfirst-ai/static/js/main.9aa46114.js.map",
+    "453.ed3810f9.chunk.js.map": "/upfirst-ai/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac938d78.css",
-    "static/js/main.5f39bdac.js"
+    "static/css/main.00c85950.css",
+    "static/js/main.9aa46114.js"
   ]
 }
