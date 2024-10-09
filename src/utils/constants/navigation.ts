@@ -1,5 +1,5 @@
 export enum Routes {
-  Home = "/",
+  Home = "/upfirst-ai",
   AboutUs = "/about",
   Contact = "/contact",
 }
