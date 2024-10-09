@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { Page } from "../../components/Page/Page";
 import { usePosts } from "../../utils/hooks/usePosts";
 import { Accordion } from "../../components/Accordion/Accordion";

@@ -15,14 +15,14 @@ export const Pagination = ({
       <ul className="flex justify-center space-x-4">
         {pageNumbers.map((number) => (
           <li key={number} className="cursor-pointer">
-            <a
+            <span
               onClick={() => paginate(number)}
               className={`px-3 py-1 bg-gray-300 rounded hover:bg-blue-500 hover:text-white ${
                 currentPage === number && "!bg-blue-800 text-white font-bold"
               }`}
             >
               {number}
-            </a>
+            </span>
           </li>
         ))}
       </ul>

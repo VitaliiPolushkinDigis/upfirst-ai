@@ -1,4 +1,4 @@
-import { FC, useState, MouseEvent } from "react";
+import { FC, useState } from "react";
 import { Post } from "../../utils/constants/types";
 import { mockStatusByPostIndex } from "../../utils/common";
 import styles from "./Accordion.module.css";
